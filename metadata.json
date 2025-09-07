@@ -1,0 +1,5 @@
+{
+  "name": "Pose at World Monuments",
+  "description": "An application that allows users to upload their photo and generate images of themselves posing at famous world monuments with various styles and outfits, powered by Gemini.",
+  "requestFramePermissions": []
+}
